@@ -1,0 +1,21 @@
+{
+    "name" : "futusign MediaDeck",
+    "slug" : "futusignz-mediadeck",
+    "download_url" : "http://futusign-wordpress.s3-website-us-east-1.amazonaws.com/futusignz-mediadeck-0-3-0.zip",
+    "version" : "0.3.0",
+    "author" : "John Tucker",
+    "sections" : {
+        "description" : "Add futusign Media Decks feature",
+        "installation": "Upload and activate the <code>futusignz-mediadeck</code> plugin via the plugin admin page",
+        "changelog" : "<p><b>0.3.0</b></p><p>filter link builder</p><p><b>0.2.0</b></p><p>No dep. on ACF to REST API</p><p><b>0.1.0</b></p><p>Initial release</p>"
+    },
+    "homepage": "https://www.futusign.com",
+    "requires": "4.3",
+    "tested": "4.8",
+    "author_homepage": "https://github.com/larkintuckerllc",
+    "last_updated": "2017-07-31 00:00:00",
+    "upgrade_notice": "filter link builder",
+    "banners": {
+      "low": "http://futusign-wordpress.s3-website-us-east-1.amazonaws.com/banner-772x250.jpg"
+    }
+}
